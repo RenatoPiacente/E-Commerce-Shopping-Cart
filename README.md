@@ -1,7 +1,5 @@
 # E-Commerce Shopping Cart
 
-## The store has products that depending on the carachteristics of the product, the price could vary.
+## Objective summarize the indivisual prices of the products and show the total.
 
-### The objective of the exercise is to summarize the indivisual prices of the products and show the total.
-
-The goal is to use list comprehension to achieve the final result. 
+The challenge is to use list comprehension to calculate the total amount of the purchase.
