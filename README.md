@@ -1,5 +1,3 @@
 # E-Commerce Shopping Cart
 
-## Objective summarize the indivisual prices of the products and show the total.
-
-The challenge is to use list comprehension to calculate the total amount of the purchase.
+The objective of this exercise is to create a script that will calculate the final price of a given purchase. The script must contain a list comprehension to solve the problem. 
